@@ -52,4 +52,4 @@ The dashboard is designed to help stakeholders like **restaurant owners, marketi
 
 ## 📂 Dataset
 The dataset used in this project is available here:  
-[📥 Download Dataset](./zomato_data.csv)
+[📥 Download Dataset](./https://github.com/ayushverma2411/Zomato-sales/blob/main/restaurant_data_cl.xlsx)
