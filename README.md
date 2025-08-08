@@ -50,4 +50,6 @@ The dashboard is designed to help stakeholders like **restaurant owners, marketi
 
 ---
 
-## 📂 Project Structure
+## 📂 Dataset
+The dataset used in this project is available here:  
+[📥 Download Dataset](./zomato_data.csv)
