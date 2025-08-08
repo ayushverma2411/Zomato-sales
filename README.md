@@ -5,7 +5,7 @@ This project presents an **interactive Power BI dashboard** analyzing Zomato res
 It provides insights into restaurant distribution, cuisine popularity, online delivery trends, and customer ratings worldwide.
 
 The dashboard is designed to help stakeholders like **restaurant owners, marketing teams, and analysts** understand key performance metrics and identify growth opportunities.
-
+ 
 ---
 
 ## 📊 Key Features
