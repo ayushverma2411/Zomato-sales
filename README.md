@@ -31,7 +31,7 @@ The dashboard is designed to help stakeholders like **restaurant owners, marketi
 ## 📷 Dashboard Preview
   
 
-
+<a href = "https://github.com/ayushverma2411/Zomato-sales/blob/main/Screenshot%202025-08-08%20195917.png">Dashboard</a>
 ---
 
 ## 🛠️ Tools & Technologies
