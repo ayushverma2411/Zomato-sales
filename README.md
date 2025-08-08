@@ -49,4 +49,7 @@ The dashboard is designed to help stakeholders like **restaurant owners, marketi
 4. Average ratings vary significantly across cuisines, with some niche cuisines rated higher.
 
 ---
+## 📂 Dataset
+The dataset used for this analysis is available here: 
+- <a herf ="https://github.com/ayushverma2411/Zomato-sales/blob/main/restaurant_data_cl.xlsx">Dataset</a>
 
